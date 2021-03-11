@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to project TURNIP CALCULATOR
 
 You can use the [editor on GitHub](https://github.com/lordlasagna/turnipCalculator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
