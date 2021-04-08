@@ -112,6 +112,11 @@ class PDF:
         max_X = len(self.prob)
         max_Y = rate_decay_max - rate_decay_min
         newProb = np.zeros(len(self.prob) + max_Y)
+        for i in range(len(newProb)):
+            left = max(0, i - max_Y)
+            right = min(max_X - 1, i)
+
+            numbers
 
 
 
